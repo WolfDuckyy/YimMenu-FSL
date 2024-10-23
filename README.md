@@ -14,3 +14,9 @@ and as we all know, YimMenu's Git Repository was hit with DMCA take down by Take
 So now yimura will only provide binary releases at there official page at [https://www.unknowncheats.me/forum/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html](url)
 
 **Step 1:**
+
+**Prerequisites**
+You'll need the following files downloaded:
+1. YimMenu's dev build is required for now because the current game version is 1.69-335
+   and the YimMenu's current UC release only supports the 1.69-3337 game version.
+   YimMenu's dev build: 
