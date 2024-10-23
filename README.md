@@ -11,3 +11,5 @@ They literally brought this update after 10 years which is a literal joke XD.
 
 and as we all know, YimMenu's Git Repository was hit with DMCA take down by Take 2 Interactive.
 So now yimura will only provide binary releases at there official page at [https://www.unknowncheats.me/forum/grand-theft-auto-v/476972-yimmenu-1-69-b3337.html](url)
+
+**Step 1:**
