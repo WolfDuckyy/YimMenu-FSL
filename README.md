@@ -26,11 +26,18 @@ Dropbox Link: https://www.dropbox.com/scl/fo/hkllxdj8p94hpwhp0anec/ADgXfPJpg-gPT
    
    YimMenu's dev build is required for now because the current game version is 1.69-335
    and the YimMenu's current UC release only supports the 1.69-3337 game version.
-   YimMenu's dev build: https://www.dropbox.com/scl/fi/eg66e7ngk9aie0hmnswo7/YimMenu-dev-9b422e09e973bb3ddf5d69a2625b197e93eb945c.dll?rlkey=ukpalfuskl2gzmk7oj98k9wyd&st=3jesjbnx&dl=0
+   YimMenu's dev build: https://www.dropbox.com/scl/fi/eg66e7ngk9aie0hmnswo7/YimMenu-dev-9b422e09e973bb3ddf5d69a2625b197e93eb945c.dll?rlkey=ukpalfuskl2gzmk7oj98k9wyd&st=gbvqiao9&dl=0
 
-3. **Xenos Injector**:
+2. **Xenos Injector**:
 
-   This version of Xenos will work to inject the dev build of YimMenu.
-   Xenos : https://www.dropbox.com/scl/fi/eg66e7ngk9aie0hmnswo7/YimMenu-dev-9b422e09e973bb3ddf5d69a2625b197e93eb945c.dll?rlkey=ukpalfuskl2gzmk7oj98k9wyd&st=3jesjbnx&dl=0
+   Inside the dropbox folder link provided, there are 2 Xenos exe's ( Xenos and Xenos64 )
+
+3. **FSL: Local GTAO Saves**
+
+   FSL is a tool that helps you store your GTA Online multiplayer data locally on your hard drive!
+   FSL Link: https://www.unknowncheats.me/forum/downloads.php?do=file&id=47299
+
+
+   The link will download a dll file named as "version.vmp_[unknowncheats.me]_.dll"
+   All you need to do is rename the dll to "version.dll"
    
-   Xenos64: 
