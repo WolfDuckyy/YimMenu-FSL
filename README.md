@@ -86,11 +86,14 @@ run GTA Online and won't touch the data on the GTA Online Servers!"**
  3. run GTA V normally
  4. I recommend going to Story Mode first, for YimMenu to build in-game cache.
  5. Run "Xenos64"
+
+  
 ![image](https://github.com/user-attachments/assets/cfb9858d-9453-4b2f-b046-3c0820bec9b1)
 
- 7. Select the "GTA5" process from the drop down menu of Process.
- 8. Click on Add, and select the YimMenu dev build file, from where you saved it.
- 9. Click on Inject.
+
+ 6. Select the "GTA5" process from the drop down menu of Process.
+ 7. Click on Add, and select the YimMenu dev build file, from where you saved it.
+ 8. Click on Inject.
 
 and There you go! You will successfully inject YimMenu in GTA V.
 
