@@ -42,10 +42,15 @@ All three files are listed for download are required to use YImMenu!
 **Step 2:**
 
 After downloading all the files,
+
 First you need to do is make use of FSL tool, it will help you to save your gta online data locally,
 at "**%APPDATA/Roaming/FSL%"**
+
 FSL will help you to play GTA Online without the BattleEye and protects your from getting banned!
-"note: as FSL saves the multiplayer data locally, it will use only the locally saved data to run GTA Online and won't touch the data on the GTA Online Servers!"
+
+"note: as FSL saves the multiplayer data locally, it will use only the locally saved data to 
+run GTA Online and won't touch the data on the GTA Online Servers!"
+
  1. Download the FSL tool from the provided UC link above.
  2. The link will download a dll file named as "version.vmp_[unknowncheats.me]_.dll"
    All you need to do is rename the dll to "version.dll".
