@@ -55,8 +55,8 @@ In order to use YimMenu, you need to disable BattleEye for GTA V
 This will disable the BattleEye launcher and you can play GTA Online without BattleEye!
 
 
-4. **Step 3:**
-   **FSL**
+**Step 3:**
+**FSL**
    
  1. Download the FSL tool from the provided UC link above.
  2. The link will download a dll file named as "version.vmp_[unknowncheats.me]_.dll"
