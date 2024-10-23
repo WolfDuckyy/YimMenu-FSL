@@ -76,4 +76,35 @@ run GTA Online and won't touch the data on the GTA Online Servers!"**
 **Inject YimMenu**
  
  Once the FSL tool is set up, now you are ready to use YimMenu in your game!
- 1. Download the Xenos Injector from the dropbox link provided. (I don't know but only this version of Xenos works to inject YimMenu's dev build)
+ 1. Download the Xenos Injector from the dropbox link provided. (I don't know but only this version of Xenos works to inject YimMenu's dev build).
+ 2. Downlaod the YimMenu's dev build dll file from this repository or from the dropbox link provided above!.
+ 3. run GTA V normally
+ 4. I recommend going to Story Mode first, for YimMenu to build in-game cache.
+ 5. Run "Xenos64"
+ 6. Select the "GTA5" process from the drop down menu of Process.
+ 7. Click on Add, and select the YimMenu dev build file, from where you saved it.
+ 8. Click on Inject.
+
+and There you go! You will successfully inject YimMenu in GTA V.
+
+**Step 5:**
+**Joining GTA Online**
+
+It's recommended to join GTA Online using the YimMenu and not the in-game pause menu.
+
+ 1. Start YimMenu, the shortcut key is **"INSERT"**
+ 2. It will first ask you to build in-game cache, just click on "Build Cache".
+  After the process is done, you can now use YimMenu fully.
+ 3. In YimMenu, click on **"Network"**
+ 4. At the right side of the YimMenu, you will see a dorp down menu to select a server region.
+ 5. From there, select your preferred server region.
+ 6. Click on **"Join Public Session"**
+
+ **"note: This is important for you to join GTA Online following the above steps."**
+
+ and There you go! You can now enjoy GTA Online with YimMenu!
+
+By following these steps, you can play GTA Online with YimMenu, however, there's still a small chance of getting banned or
+getting kicked out of sessions. That's where FSL comes into play to save you from suspensions.
+**I will not be held accountable for any permanent account suspensions.**
+
