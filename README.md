@@ -45,6 +45,8 @@ All three files are listed for download are required to use YImMenu!
 
 **Disable BattleEye**
 
+![image](https://github.com/user-attachments/assets/34f21fed-47c0-46d3-8e1e-a2da403baccf)
+
 In order to use YimMenu, you need to disable BattleEye for GTA V
   1. Open Rockstar Games Launcher
   2. Go to Settings tab
@@ -74,6 +76,9 @@ run GTA Online and won't touch the data on the GTA Online Servers!"**
 
 **Step 4:**
 **Inject YimMenu**
+
+![image](https://github.com/user-attachments/assets/5c71f239-3fca-491b-8e19-01b10826ef67)
+
  
  Once the FSL tool is set up, now you are ready to use YimMenu in your game!
  1. Download the Xenos Injector from the dropbox link provided. (I don't know but only this version of Xenos works to inject YimMenu's dev build).
@@ -81,9 +86,11 @@ run GTA Online and won't touch the data on the GTA Online Servers!"**
  3. run GTA V normally
  4. I recommend going to Story Mode first, for YimMenu to build in-game cache.
  5. Run "Xenos64"
- 6. Select the "GTA5" process from the drop down menu of Process.
- 7. Click on Add, and select the YimMenu dev build file, from where you saved it.
- 8. Click on Inject.
+![image](https://github.com/user-attachments/assets/cfb9858d-9453-4b2f-b046-3c0820bec9b1)
+
+ 7. Select the "GTA5" process from the drop down menu of Process.
+ 8. Click on Add, and select the YimMenu dev build file, from where you saved it.
+ 9. Click on Inject.
 
 and There you go! You will successfully inject YimMenu in GTA V.
 
